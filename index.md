@@ -1,8 +1,8 @@
 # IRIS
 
-19.-26. Dezember 2025, täglich bei Dunkelheit. 
-
 `Eine immersive Lichtinstallation`
+
+19.-26. Dezember 2025, täglich bei Dunkelheit. 
 
 <img src="IRIS.png">
 
