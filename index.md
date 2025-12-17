@@ -1,6 +1,6 @@
 # IRIS
 
-`Eine analoge Schaufenster-Lichtinstallation`
+`Eine analoge Lichtinstallation`
 
 <img src="IRIS.png">
 
