@@ -2,7 +2,7 @@
 
 `Eine immersive Lichtinstallation`
 
-19.-26. Dezember 2025, täglich bei Dunkelheit. 
+19.-26. Dezember 2025, täglich bei Dunkelheit @ [Struppi](https://johannescrowd.de/struppi/) Darmstadt.
 
 <img src="IRIS.png">
 
