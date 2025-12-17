@@ -10,4 +10,4 @@
 
 ### Darmstädter Licht
 
-- Kontakt mxklb@mailbox.org
+- Kontakt: mxklb@mailbox.org
