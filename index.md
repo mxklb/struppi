@@ -1,6 +1,8 @@
 # IRIS
 
-`Eine analoge Lichtinstallation`
+19.-26. Dezember 2025, täglich bei Dunkelheit. 
+
+`Eine immersive Lichtinstallation`
 
 <img src="IRIS.png">
 
